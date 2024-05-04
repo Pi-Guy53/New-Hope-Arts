@@ -1,0 +1,23 @@
+/* *,
+* {
+    border: 1px solid black;
+} */
+
+#item-gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+
+    justify-items: center;
+
+    text-align: center;
+}
+
+.gallery-item {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+
+.hidden {
+    background-color: grey;
+}

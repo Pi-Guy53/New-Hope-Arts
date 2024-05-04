@@ -1,0 +1,35 @@
+{
+    "mapsize": [
+        500,
+        500
+    ],
+    "locations": [
+        {
+            "name": "place",
+            "author": "artist name",
+            "description": "descriptor",
+            "url": "img.url",
+            "x": 150,
+            "y": 150,
+            "collectable": "item"
+        },
+        {
+            "name": "second place",
+            "author": "another artist",
+            "description": "random descriptor",
+            "url": "img2.url",
+            "x": 250,
+            "y": 200,
+            "collectable": "new item"
+        },
+        {
+            "name": "sculpture",
+            "author": "artist",
+            "description": "Longer text to test the overflow of the html elements and to check if it needs any adjustment",
+            "url": "img2.url",
+            "x": 300,
+            "y": 175,
+            "collectable": "new item"
+        }
+    ]
+}
