@@ -124,3 +124,12 @@ body {
 .toggle {
     display: none;
 }
+
+footer {
+    text-align: center;
+    padding: 1rem;
+
+    color: white;
+    background-image: linear-gradient(to bottom, #fe0000, #c90000);
+    background-repeat: repeat-x;
+}
